@@ -27,6 +27,7 @@ const Comon=(props)=> {
               </div>
           </div>
       </div>
+       </div>
        
       </section>
 
