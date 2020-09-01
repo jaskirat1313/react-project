@@ -1,11 +1,11 @@
 import React  from "react";
-import CopyrightIcon from '@material-ui/icons/Copyright';
+
 const Footer=()=>{
     return (
         <>
         <footer className="w-100 bg-light text-center">
 
-            <p> 2020<CopyrightIcon/>react project </p>
+            <p> 2020 c react project </p>
 
         </footer>
         </>
